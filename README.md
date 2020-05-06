@@ -12,10 +12,10 @@ blablabla
 ## Software
 ### Code Architecture
 blabal
-### Arduino Code
+### Arduino
 
 blabal
-### Frontend Code
+### Frontend
 blabla
 
 ## License and Questions
